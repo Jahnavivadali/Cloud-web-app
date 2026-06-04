@@ -1,3 +1,20 @@
-ddfgfbvc
-dfdffb
-ddvb
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore IDE folders
+.vscode/
+.idea/
+
+# Ignore node_modules (if used later)
+node_modules/
+
+# Ignore screenshots (optional if you don’t want to track images)
+screenshots/*.png
+screenshots/*.jpg
