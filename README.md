@@ -1,8 +1,8 @@
 
-# 🌐 **CLOUD WEB APPLICATION (LINUX + GIT PROJECT)**
+#  **CLOUD WEB APPLICATION (LINUX + GIT PROJECT)**
 ---
 
-# 🎯 **OBJECTIVE**
+#  **OBJECTIVE**
 
 This project demonstrates foundational DevOps skills including Linux scripting, Git/GitHub workflows, and basic web development.
 
@@ -10,7 +10,7 @@ It is designed to simulate real-world project structure and version control prac
 
 ---
 
-# 🛠️ **TECHNOLOGIES USED**
+#  **TECHNOLOGIES USED**
 
 * **Frontend:** HTML5
 * **Scripting:** Bash (Linux Shell Scripting)
@@ -19,7 +19,7 @@ It is designed to simulate real-world project structure and version control prac
 
 ---
 
-# 📂 **PROJECT STRUCTURE**
+#   **PROJECT STRUCTURE**
 
 ```text
 cloud-web-app/
@@ -39,7 +39,7 @@ cloud-web-app/
 
 ---
 
-# ⚙️ **FEATURES**
+#  **FEATURES**
 
 ✔ Static Web Page using HTML5
 ✔ Linux Shell Script automation
@@ -49,7 +49,7 @@ cloud-web-app/
 
 ---
 
-# Y LEARNINGS
+#  LEARNINGS
 
 ✔ Git version control (commit, push, pull, branch)
 ✔ Branch management and merging strategies
@@ -59,11 +59,11 @@ cloud-web-app/
 
 ---
 
-# 🧪 **HOW TO RUN THE PROJECT**
+# **HOW TO RUN THE PROJECT**
 
 ---
 
-# 🌐 **1. RUN WEB APPLICATION**
+#  **1. RUN WEB APPLICATION**
 
 Open the HTML file in a browser:
 
@@ -79,7 +79,7 @@ xdg-open app/index.html
 
 ---
 
-# 💻 **2. RUN SHELL SCRIPT**
+#     2. RUN SHELL SCRIPT**
 
 Run the project status script:
 
@@ -89,7 +89,7 @@ bash scripts/project-status.sh add project updates here
 
 ---
 
-### ⚠️ Permission Fix (if needed)
+##    Permission Fix (if needed)
 
 ```bash
 chmod +x scripts/project-status.sh
@@ -97,7 +97,7 @@ chmod +x scripts/project-status.sh
 
 ---
 
-# 📊 **GIT WORKFLOW USED**
+#  **GIT WORKFLOW USED**
 
 ```bash
 git init
@@ -111,8 +111,7 @@ git push origin main
 
 ---
 
-# 📸 **SCREENSHOTS**
-
+# SCREENSHOTS
 * GitHub repository view
 * Terminal execution output
 * Script running results
@@ -121,8 +120,8 @@ git push origin main
 
 ---
 
-# 👤 **AUTHOR**
-
+# AUTHOR
+ 
 **Name:** Jahnavi
 
 #  ROJECT STATUS
