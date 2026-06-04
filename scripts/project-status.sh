@@ -1,15 +1,22 @@
-Cloud Web App Project Overview
+#!/bin/bash
 
- Project Description
-This project demonstrates Linux folder structure and GitHub workflow.
+echo "======================================"
+echo "      PROJECT STATUS REPORT"
+echo "======================================"
 
- Folder Structure
-- app → HTML files
-- scripts → shell scripts
-- docs → documentation
-- screenshots → images
+echo ""
+echo " Current Directory:"
+pwd
 
- Features
-- Git version control
-- Linux project structure
-- Shell scripting
+echo ""
+echo " Files in Project:"
+ls -R
+
+echo ""
+echo " Git Status:"
+git status
+
+echo ""
+echo "======================================"
+echo " Script executed successfully!"
+echo "======================================"
